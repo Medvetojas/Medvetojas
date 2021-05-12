@@ -5,9 +5,6 @@ Here I can include some information about me, while providing statistics about m
 * I have some experience in **C**, much more experience in **Java**, and I also did some basic **HTML/JS** stuff in the past.
 * Besides my interest in programming, you can mostly find me playing League of Legends or CS:GO.
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Medvetojas&show_icons=true&theme=react)
-
 ![Profile views](https://gpvc.arturio.dev/Medvetojas)
 
-_Last update: 2021.05.03 by Medvetojas - this readme is a WIP._
+_Last update: 2021.05.12. by Medvetojas - this readme is a WIP._
