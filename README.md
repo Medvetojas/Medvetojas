@@ -7,4 +7,4 @@ Here I can include some information about me, while providing statistics about m
 
 ![Profile views](https://gpvc.arturio.dev/Medvetojas)
 
-_Last update: 2021.05.24.
+_Last update: 2021.09.15.
