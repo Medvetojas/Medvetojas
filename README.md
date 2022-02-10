@@ -3,7 +3,7 @@ Here I can include some information about me, while providing statistics about m
 
 * I'm currently learning **Computer Science** at the **University of Miskolc**.
 * I have some experience in **C**, and much more experience in **Java**.
-* Besides my interest in programming and IT, I played League of Legends professionally a few years ago.
+* Website is a WIP, but most likely won't have time to work on it anytime soon so I left it empty until then.
 
 ![Profile views](https://gpvc.arturio.dev/Medvetojas)
 
